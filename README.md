@@ -4,22 +4,22 @@
 ## 0.shader实例
 ## 0.5 opengl软光栅
 ## 1.纹理
-bump及其改进
-flowmap
-动画（序列帧、顶点）
+### bump及其改进
+### flowmap
+###动画（序列帧、顶点）
 ## 2.着色
-几何/曲面细分案例
-（半）透明渲染
-光照
-阴影
-模板测试
+### 几何/曲面细分案例
+### （半）透明渲染
+### 光照
+### 阴影
+### 模板测试
 
 ## 2.5高级着色以及brdf
-头发
-皮肤
-DisneyPBR
-UnityPBR
-CookTorrencePBR
+### 头发
+### 皮肤
+### DisneyPBR
+### UnityPBR
+### CookTorrencePBR
 
 ## 3.GI
 
