@@ -1,4 +1,5 @@
 # 代码分为URP和BuiltIn管线，多数效果在两种管线下都有所实现
+## 只有shader c# ， material scene就不放了因为下面有gif
 # opengl中的文件为软光栅学习
 ## 以下为gif效果图放送
 
